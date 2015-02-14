@@ -1,2 +1,2 @@
-# lampient
+# Lampient
 Ambient lighting effects
