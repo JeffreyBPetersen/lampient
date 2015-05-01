@@ -9,6 +9,8 @@ function fullscreen(){
   lamp_element.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT)
 }
 
+}
+
 function init(){
   lamp_element = document.getElementById("lamp")
   lamp_context = lamp_element.getContext("2d")
