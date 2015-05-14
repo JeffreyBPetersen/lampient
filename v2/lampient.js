@@ -15,6 +15,9 @@ function handle_click(event){
 
 function handle_keydown(event){
   console.log(event)
+  if(event.shiftKey && event.keyCode == 51){
+    console.log("#")
+  }
 }
 
 function init(){
