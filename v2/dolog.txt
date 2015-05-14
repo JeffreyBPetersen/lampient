@@ -1,1 +1,3 @@
 cake the color
+input system
+timed loop based effects
